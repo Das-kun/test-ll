@@ -1,0 +1,17 @@
+{
+    "botName": "kaguya",
+    "owner": [
+        "917003123983@s.whatsapp.net"
+    ],
+    "openWeather": "OpenWeather_APIkey",
+    "igCookie": "Instagram_Cookie",
+    "session": "session",
+    "chat_store": "baileys-store.json",
+    "timezone": "Asia/kolkata",
+    "footer": "Kaguya • Das",
+    "tier": {
+        "drakath": 200,
+        "nulgath": 500,
+        "artix": 999
+    }
+}
